@@ -1,1 +1,1 @@
-﻿{"version":"1.7.1","changelog":"修复识别字幕模型下载失败：切换国内镜像源（hf-mirror.com + fastly.jsdelivr.net）"}
+﻿{"version":"1.7.2","changelog":"新增「从微信选择音频」入口：点击后引导定位到微信下载目录(Tencent/MicroMsg/Download)选择音频文件"}
