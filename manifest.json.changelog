@@ -1,1 +1,1 @@
-﻿{"version":"1.2.0","changelog":"v1.2.0 热更新功能上线：支持前端OTA增量更新、手动检查更新、失败自动回退"}
+﻿{"version":"1.7.0","changelog":"恢复软件内 OTA 热更新功能；修复移动端白屏根因（启用 custom-protocol）"}
