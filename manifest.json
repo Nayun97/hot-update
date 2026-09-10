@@ -1,9 +1,9 @@
 {
   "version": "1.2.0",
-  "createdAt": "2026-09-09T16:55:42.3216051Z",
+  "createdAt": "2026-09-10T12:40:01.0243474Z",
   "minShellVersion": "1.0.0",
   "archive": {
-    "url": "https://your-cdn.example.com/hot-update/bundle-1.2.0.tar.gz",
+    "url": "https://nayun97.github.io/hot-update/bundle-1.2.0.tar.gz",
     "sha256": "ec1ff7bb95546a76447207643fd021228de61a62d79b0e493e5331efd3ab1559",
     "size": 216385
   }
