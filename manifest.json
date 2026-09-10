@@ -1,10 +1,10 @@
 {
-  "version": "1.7.0",
-  "createdAt": "2026-09-10T13:58:38.9871309Z",
+  "version": "1.7.1",
+  "createdAt": "2026-09-10T14:09:46.8738676Z",
   "minShellVersion": "1.0.0",
   "archive": {
-    "url": "https://nayun97.github.io/hot-update/bundle-1.7.0.tar.gz",
-    "sha256": "1b21386158b341a00036375ee95b82520ae2191c027a651f23e027c8a87a0865",
-    "size": 218084
+    "url": "https://nayun97.github.io/hot-update/bundle-1.7.1.tar.gz",
+    "sha256": "2f506e0b495520bf9d2acbc45a1b9fc229409151a8dcca8120fc14ceacd93ce0",
+    "size": 218383
   }
 }
